@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shreedhar\\source\\repos\\sonarqubedemo\\sampledemo\\sampledemo\\sampledemo.csproj": {}
+    "C:\\Users\\Shreedhar\\source\\repos\\sonarqubedemo\\sonardemo\\sonardemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shreedhar\\source\\repos\\sonarqubedemo\\sampledemo\\sampledemo\\sampledemo.csproj": {
+    "C:\\Users\\Shreedhar\\source\\repos\\sonarqubedemo\\sonardemo\\sonardemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shreedhar\\source\\repos\\sonarqubedemo\\sampledemo\\sampledemo\\sampledemo.csproj",
-        "projectName": "sampledemo",
-        "projectPath": "C:\\Users\\Shreedhar\\source\\repos\\sonarqubedemo\\sampledemo\\sampledemo\\sampledemo.csproj",
+        "projectUniqueName": "C:\\Users\\Shreedhar\\source\\repos\\sonarqubedemo\\sonardemo\\sonardemo.csproj",
+        "projectName": "sonardemo",
+        "projectPath": "C:\\Users\\Shreedhar\\source\\repos\\sonarqubedemo\\sonardemo\\sonardemo.csproj",
         "packagesPath": "C:\\Users\\Shreedhar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shreedhar\\source\\repos\\sonarqubedemo\\sampledemo\\sampledemo\\obj\\",
+        "outputPath": "C:\\Users\\Shreedhar\\source\\repos\\sonarqubedemo\\sonardemo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

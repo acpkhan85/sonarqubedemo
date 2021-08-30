@@ -1,6 +1,6 @@
 using System;
 
-namespace sampledemo
+namespace sonardemo
 {
     public class WeatherForecast
     {
