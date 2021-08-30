@@ -23,4 +23,5 @@ namespace sonardemo
                     webBuilder.UseStartup<Startup>();
                 });
     }
+
 }
